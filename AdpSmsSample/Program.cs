@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace AdpSsmsSample
+namespace AdpSmsSample
 {
     internal class Program
     {
